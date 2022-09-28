@@ -8,7 +8,6 @@ Website used for selenium automation practice
 
 * Pycharm IDE editor
 * Page Object Model (POM)
-* Jenkins
 
 ## Libraries
 
